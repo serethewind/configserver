@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards prod related local APIs "
+  message: "Welcome to EazyBank cards webhook related local APIs "
   contactDetails:
     name: "Noah John - Developer in production mode"
     email: "noah@eazybank.com"
