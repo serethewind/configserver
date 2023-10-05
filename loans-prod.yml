@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank loans production related local APIs "
+  message: "Welcome to EazyBank loans webhook related local APIs "
   contactDetails:
     name: "Noah John - Developer in production mode"
     email: "noah@eazybank.com"
