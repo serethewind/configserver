@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank loans default environment related local APIs "
+  message: "Welcome to EazyBank loans docker default environment related local APIs "
   contactDetails:
     name: "Noah John - Developer in default environment mode"
     email: "noah@eazybank.com"
